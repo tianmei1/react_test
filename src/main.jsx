@@ -5,7 +5,7 @@ import { StrictMode, useState } from 'react'
 const App = () =>{
     return (
         <div>
-            <h1>empty React with Vite</h1>
+            <h1>Empty React with Vite</h1>
         </div>
     )
 }
